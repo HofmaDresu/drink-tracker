@@ -1,3 +1,8 @@
+.week-container {
+    display: flex;
+    align-items: center;
+}
+
 .week {
     display: flex;
     width: 712px;    
@@ -15,4 +20,22 @@
 
 .week.good {
     border-color: green;
+}
+
+.week-total {
+    font-size: 2em;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.week-total.bad {
+    color: red;
+}
+
+.week-total.moderate {
+    color: yellow;
+}
+
+.week-total.good {
+    color: green;
 }
