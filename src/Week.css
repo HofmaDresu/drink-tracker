@@ -15,7 +15,7 @@
 }
 
 .week.moderate {
-    border-color: yellow;
+    border-color: orange;
 }
 
 .week.good {
@@ -33,7 +33,7 @@
 }
 
 .week-total.moderate {
-    color: yellow;
+    color: orange;
 }
 
 .week-total.good {
