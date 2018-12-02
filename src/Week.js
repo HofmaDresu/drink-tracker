@@ -15,7 +15,7 @@ export default function Week(props) {
                 {dayComponents}
             </div>
             <span className={weekTotalClasses}>
-                Total: {drinks} drinks
+                Total: {("0" + drinks).slice(-2)} drinks
             </span>
         </div>
     );
