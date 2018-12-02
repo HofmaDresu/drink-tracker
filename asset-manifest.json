@@ -1,13 +1,13 @@
 {
   "main.css": "/drink-tracker/static/css/main.2306b468.chunk.css",
-  "main.js": "/drink-tracker/static/js/main.d20d7f8b.chunk.js",
-  "main.js.map": "/drink-tracker/static/js/main.d20d7f8b.chunk.js.map",
+  "main.js": "/drink-tracker/static/js/main.5161f005.chunk.js",
+  "main.js.map": "/drink-tracker/static/js/main.5161f005.chunk.js.map",
   "static/js/1.2cdbf539.chunk.js": "/drink-tracker/static/js/1.2cdbf539.chunk.js",
   "static/js/1.2cdbf539.chunk.js.map": "/drink-tracker/static/js/1.2cdbf539.chunk.js.map",
   "runtime~main.js": "/drink-tracker/static/js/runtime~main.2b780556.js",
   "runtime~main.js.map": "/drink-tracker/static/js/runtime~main.2b780556.js.map",
   "static/css/main.2306b468.chunk.css.map": "/drink-tracker/static/css/main.2306b468.chunk.css.map",
   "index.html": "/drink-tracker/index.html",
-  "precache-manifest.e25059a227613951d7fd5df43ee9dac8.js": "/drink-tracker/precache-manifest.e25059a227613951d7fd5df43ee9dac8.js",
+  "precache-manifest.09ce22bbe01954ccd96b0eb738fd58e1.js": "/drink-tracker/precache-manifest.09ce22bbe01954ccd96b0eb738fd58e1.js",
   "service-worker.js": "/drink-tracker/service-worker.js"
 }

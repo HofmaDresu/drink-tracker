@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "d20d7f8ba49d90242519",
+    "revision": "5161f00544415f036c22",
     "url": "/drink-tracker/static/css/main.2306b468.chunk.css"
   },
   {
-    "revision": "d20d7f8ba49d90242519",
-    "url": "/drink-tracker/static/js/main.d20d7f8b.chunk.js"
+    "revision": "5161f00544415f036c22",
+    "url": "/drink-tracker/static/js/main.5161f005.chunk.js"
   },
   {
     "revision": "2cdbf539c2ee88362256",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/drink-tracker/static/js/runtime~main.2b780556.js"
   },
   {
-    "revision": "f409db38fd2ecfa2f4ebb0d9bf73adfa",
+    "revision": "dcf3eccbf7eb245a5c57ffdff4bdce3c",
     "url": "/drink-tracker/index.html"
   }
 ];
